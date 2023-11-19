@@ -1,1 +1,1 @@
-# TCP_Chat
+Simple chat made in python.
